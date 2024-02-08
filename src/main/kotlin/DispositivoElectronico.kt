@@ -1,0 +1,4 @@
+interface DispositivoElectronico {
+
+    fun reiniciar()
+}
